@@ -1,7 +1,7 @@
 # Hi there, I'm lvguanjun 👋
 
 ## My GitHub Stats
-![lvguanjun's GitHub stats](https://github-readme-stats-tau-two-24.vercel.app/api?username=lvguanjun&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
+![lvguanjun's GitHub stats](https://stats.3211000.xyz/api?username=lvguanjun&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 ## Some of my sites
 
